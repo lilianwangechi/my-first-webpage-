@@ -1,0 +1,21 @@
+h1 {
+  color:rgb(255, 217, 0)
+}
+h1 {
+  color: rgb(225, 0, 255);
+  text-align: center;
+}
+h2 {
+  color: rgb(13, 0, 128);
+  font-style: oblique;
+  text-align: start;
+}
+p {
+  font-family: cursive;
+}
+ul {
+  line-height: 50px;
+}
+ol {
+  line-height: 50px;
+}
